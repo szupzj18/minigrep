@@ -2,6 +2,8 @@
 
 a grep process, but way more simple.
 
+# Feature List.
+
 ## DONE
 
 - [x] Main function.
