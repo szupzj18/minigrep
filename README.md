@@ -10,8 +10,8 @@ a grep process, but way more simple.
 - [x] convert Args to global config.
 - [x] test cases.
 - [x] ignore case user option.
+- [x] optmize code (iterator optimize).
 
 ## WIP
 
-- [ ] optmize code.
 - [ ] a cup of ☕️ coffee.
