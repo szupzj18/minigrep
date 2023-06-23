@@ -6,8 +6,9 @@ a grep process, but way more simple.
 
 - [x] Main function.
 - [x] convert Args to global config.
+- [x] test cases.
 
 ## WIP
 
-- [ ] test cases.
 - [ ] a cup of ☕️ coffee.
+- [ ] ignore case user option.
